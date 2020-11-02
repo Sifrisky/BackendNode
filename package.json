@@ -1,0 +1,28 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "Un chat estilo Telegram pero mas cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sifrisky/BackendNode.git"
+  },
+  "keywords": [
+    "chat",
+    "server",
+    "telegram"
+  ],
+  "author": "Astrid Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sifrisky/BackendNode/issues"
+  },
+  "homepage": "https://github.com/Sifrisky/BackendNode#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
